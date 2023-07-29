@@ -5,7 +5,7 @@
       "description": "Desenvolvimento Site",
       "type": "income",
       "category": "venda",
-      "price": 14000,
+      "price": 1400,
       "createdAt": "2023-07-28T20:03:01.887Z"
     },
     {
@@ -15,6 +15,46 @@
       "category": "Alimentação",
       "price": 10,
       "createdAt": "2023-07-28T40:03:01.887Z"
+    },
+    {
+      "id": 3,
+      "description": "aluguel",
+      "type": "outcome",
+      "category": "Moradia",
+      "price": 1200,
+      "createdAt": "2023-07-28T50:03:01.887Z"
+    },
+    {
+      "id": 4,
+      "description": "Manutenção site",
+      "type": "income",
+      "category": "Venda",
+      "price": 600,
+      "createdAt": "2023-07-22T50:03:01.887Z"
+    },
+    {
+      "id": 5,
+      "description": "x caboquinho",
+      "type": "outcome",
+      "category": "Lanche",
+      "price": 18,
+      "createdAt": "2023-07-21T50:03:01.887Z"
+    },
+    {
+      "id": 6,
+      "description": "Dota Pluss",
+      "type": "outcome",
+      "category": "Dotinea",
+      "price": 22,
+      "createdAt": "2023-07-01T50:03:01.887Z"
+    },
+    {
+      "id": 7,
+      "description": "Bico - Formatação",
+      "type": "income",
+      "category": "Venda",
+      "price": 120,
+      "createdAt": "2023-07-02T50:03:01.887Z"
     }
   ]
 }
