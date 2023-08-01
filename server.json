@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 10,
-      "createdAt": "2023-07-28T40:03:01.887Z"
+      "createdAt": "2023-07-22T20:03:01.887Z"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "type": "outcome",
       "category": "Moradia",
       "price": 1200,
-      "createdAt": "2023-07-28T50:03:01.887Z"
+      "createdAt": "2023-08-28T20:03:01.887Z"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "type": "income",
       "category": "Venda",
       "price": 600,
-      "createdAt": "2023-07-22T50:03:01.887Z"
+      "createdAt": "2023-08-01T15:21:35.822Z"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "type": "outcome",
       "category": "Lanche",
       "price": 18,
-      "createdAt": "2023-07-21T50:03:01.887Z"
+      "createdAt": "2023-07-23T20:03:01.887Z"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "type": "outcome",
       "category": "Dotinea",
       "price": 22,
-      "createdAt": "2023-07-01T50:03:01.887Z"
+      "createdAt": "2023-08-01T15:20:31.301Z"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "type": "income",
       "category": "Venda",
       "price": 120,
-      "createdAt": "2023-07-02T50:03:01.887Z"
+      "createdAt": "2023-07-28T20:03:01.887Z"
     }
   ]
 }
